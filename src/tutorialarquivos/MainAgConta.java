@@ -18,7 +18,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Jonatha
+ * @author Carlos Daniel, Fernando D, João M, Jonatha N e Monique M
  */
 public class MainAgConta {
 

@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Jonatha
+ * @author Carlos Daniel, Fernando D, João M, Jonatha N e Monique M
  */
 public class Conta {
     private int cod;

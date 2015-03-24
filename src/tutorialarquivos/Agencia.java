@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Jonatha
+ * @author Carlos Daniel, Fernando D, João M, Jonatha N e Monique M
  */
 public class Agencia {
     private int cod;

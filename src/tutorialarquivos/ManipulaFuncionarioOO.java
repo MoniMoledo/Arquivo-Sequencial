@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author vanessa
+  * @author Carlos Daniel, Fernando D, João M, Jonatha N, Monique M e Vanessa
  */
 public class ManipulaFuncionarioOO {
 
